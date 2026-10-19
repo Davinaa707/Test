@@ -1,0 +1,57 @@
+body {
+	background-color: rgb(131, 154, 132);
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 20px; /* Add padding to the body */
+	align-items: center; /* Center align items */
+	align-content: center;					
+}
+
+h1 {
+	color: rgb(5, 42, 23);
+	font-size: 50px;
+	font-weight: 900;
+}
+
+h2 {
+	color: rgb(5, 42, 23);
+	font-size: 35px;
+	font-weight: 800;
+}
+
+h3 {
+	color: rgb(5, 42, 23);
+	font-size: 30px;
+	font-weight: 700;
+}
+
+h4 {
+	color: rgb(5, 42, 23);
+	font-size: 25px;
+	font-weight: 600;
+}
+
+h5 {
+	color: rgb(5, 42, 23);
+	font-size: 20px;
+	font-weight: 550;
+}	
+
+h6 {
+	color: rgb(5, 42, 23);
+	font-size: 15px;
+	font-weight: 500;
+}  
+
+p {
+	color: rgb(3, 78, 8);
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.image {
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	align-items: center;
+	background-size: cover; 
+}
